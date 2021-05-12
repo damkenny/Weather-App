@@ -131,7 +131,7 @@ body {
     position: relative;
     padding-top: 10px;
     color: rgb(12, 3, 7);
-    text-align: left;
+    text-align: middle;
 }
 
 .current::before {
